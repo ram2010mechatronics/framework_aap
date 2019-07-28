@@ -1,0 +1,6 @@
+# Project exclude paths
+/infosys_aap_api/target/
+/infosys_aap_base/target/
+/infosys_aap_core/target/
+/infosys_aap_e2e/target/
+/infosys_aap_ui/target/

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="infosys_aap_e2e" />
+        <module name="infosys_aap_base" />
+        <module name="infosys_aap_ui" />
+        <module name="infosys_aap_api" />
+        <module name="infosys_aap_core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="infosys_app_ui" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

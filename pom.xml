@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.infosys.ivs</groupId>
+    <artifactId>framework_aap</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <name>Infosys AAP Automation Framework</name>
+
+    <modules>
+        <module>infosys_aap_core</module>
+        <module>infosys_aap_ui</module>
+        <module>infosys_aap_api</module>
+        <module>infosys_aap_e2e</module>
+        <module>infosys_aap_base</module>
+    </modules>
+
+
+</project>
